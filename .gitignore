@@ -1,1 +1,4 @@
-db_conn.yaml
+*.JPG
+*.mp4
+*.csv
+*.sh
