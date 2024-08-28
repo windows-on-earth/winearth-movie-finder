@@ -2,5 +2,4 @@ matplotlib
 pandas
 panel
 scipy
-matplotlib
 basemap
